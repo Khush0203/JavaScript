@@ -16,3 +16,4 @@ else
 
 //kinda similar to java
 // it is very easy
+// === is equality
