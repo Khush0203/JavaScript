@@ -33,3 +33,5 @@ percentage = percentage + '%'
 
 console.log(percentage)
 console.log(typeof percentage)
+
+//A KHUSH MUNSHI PRODUCTION

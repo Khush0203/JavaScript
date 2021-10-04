@@ -22,3 +22,8 @@ console.log(varTwo)
 //Local Scope - Defined inside a code block
 
 // Scope is similar to any other language
+
+
+
+
+//A KHUSH MUNSHI PRODUCTION

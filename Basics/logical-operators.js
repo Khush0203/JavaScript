@@ -14,3 +14,4 @@ if(a%3 == 0 || a%9 == 0)
 {
     console.log('It is divisible by either 9 or 3')
 }
+//A KHUSH MUNSHI PRODUCTION
